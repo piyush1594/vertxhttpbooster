@@ -147,7 +147,7 @@
           <resources>
             <labels>
               <all>
-                <space>fmptest</space>
+                <space>test-quickstart</space>
               </all>
             </labels>
           </resources>
